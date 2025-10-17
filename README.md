@@ -1,0 +1,2 @@
+# E2E_Journal-Application_v1.0
+A RESTful backend built with Spring Boot that allows users to create, read, update, and delete (CRUD) journal entries. It uses MongoDB as the database for storing user data and journal records, providing a scalable and efficient data management system.
